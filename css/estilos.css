@@ -26,6 +26,10 @@ p,a{
     font-weight: bold;
 }
 
+li{
+    list-style: none;
+}
+
 /***************************************
 HEADING
 ****************************************/
@@ -49,7 +53,7 @@ header{
     background-color: #003E83;
 }
 
-.top{
+.top, .footer{
     width: 1000px;
     max-width: 100%;
     margin: 0 auto;
@@ -129,7 +133,44 @@ FOOTER
 
 footer{
     clear: both;
+    height: 200px;
+    background-color: #003E83;
+    max-width: 100%;
+    display: block;       
 }
+
+.menu_footer{
+    width: 300px;
+    padding: 40px 0 0 15px;   
+    float: right;
+}
+
+h5{
+    font-weight: normal;
+    margin: 5px 0;
+    display: block;    
+}
+
+h4{
+    margin: -5px 0;
+    font-weight: normal;
+    line-height: 0.8em;        
+}
+
+.lugar{
+    width: 25px;
+    height: 25px;
+    float: left;    
+    margin-right: 10px;
+}
+
+.about{
+    width: 200px;
+    padding: 40px 0 0 30px;
+    position: relative;
+}
+
+
 
 
 
