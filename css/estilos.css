@@ -6,7 +6,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;    
 }
 
-#wrapper{
+.wrapper{
     width: 1000px;
     margin: 0 auto;
     padding: 0 0;
@@ -29,6 +29,8 @@ p,a{
 li{
     list-style: none;
 }
+
+
 
 /***************************************
 HEADING
@@ -81,7 +83,7 @@ nav li{
 }
 
 nav a{
-    font-weight: 800;
+    font-weight: normal;
     padding: 15px 10px;
     color:white;
 }
@@ -136,7 +138,8 @@ footer{
     height: 200px;
     background-color: #003E83;
     max-width: 100%;
-    display: block;       
+    display: block;
+          
 }
 
 .menu_footer{
@@ -161,18 +164,34 @@ h4{
     width: 25px;
     height: 25px;
     float: left;    
-    margin-right: 10px;
+    margin-right: 10px;    
 }
 
 .about{
     width: 200px;
     padding: 40px 0 0 30px;
     position: relative;
+    color:white;
+}
+
+.white{
+    color:white;
+    font-weight: normal;
 }
 
 
 
+/**********************************************
+MENU
+**********************************************/
+#menu{
+    display: inline-block;
+    clear: both;
+    
+    padding-top: 100px;
+}
 
-
-
+#menu ul{
+    padding: 0;
+}
 
