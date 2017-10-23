@@ -8,11 +8,14 @@ body{
     
 }
 
+
 *{
     -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+
 #wrapper{
     width: 1000px;
     margin: 0 auto;
@@ -36,6 +39,8 @@ p,a{
 li{
     list-style: none;
 }
+
+
 
 /***************************************
 HEADING
@@ -83,7 +88,7 @@ nav ul{
 }
 
 nav li{
-    display: inline-block;    
+    display: inline;    
     margin: 0px 15px;
     padding: 2px 0px;
 }
@@ -96,8 +101,7 @@ nav li a:hover{
 nav a{
     font-weight: normal;
     padding: 0px 10px;
-    color:white;
-    
+    color:white;    
 }
 
 /***************************************
@@ -152,6 +156,7 @@ footer{
     max-width: 100%;
     display: block;   
     color:white;
+    display: block;
 }
 
 .menu_footer{
@@ -176,7 +181,7 @@ h4{
     width: 25px;
     height: 25px;
     float: left;    
-    margin-right: 10px;
+    margin-right: 10px;    
 }
 
 .about{
@@ -201,7 +206,9 @@ CATALOGO
     float: left;
     height: 1200px;
     position: relative;
+    color:white;
 }
+
 
 #menu ul{
     display: inline;
@@ -261,8 +268,24 @@ CATALOGO
 
 
 
+.white{
+    color:white;
+    font-weight: normal;
+}
 
 
 
 
+/**********************************************
+MENU
+**********************************************/
+#menu{
+    display: inline-block;
+    clear: both;    
+    padding-top: 100px;
+}
+
+#menu ul{
+    padding: 0;
+}
 
