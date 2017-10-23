@@ -3,9 +3,16 @@ GENERAL
 ****************************************/
 
 body{   
-    font-family: 'Source Sans Pro', sans-serif;    
+    font-family: 'Source Sans Pro', sans-serif;   
+    
+    
 }
 
+*{
+    -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
 #wrapper{
     width: 1000px;
     margin: 0 auto;
@@ -77,13 +84,20 @@ nav ul{
 
 nav li{
     display: inline-block;    
-    margin: 5px 15px;    
+    margin: 0px 15px;
+    padding: 2px 0px;
 }
 
+nav li a:hover{
+    background-color: greenyellow;
+    color:black;
+    
+}
 nav a{
-    font-weight: 800;
-    padding: 15px 10px;
+    font-weight: normal;
+    padding: 0px 10px;
     color:white;
+    
 }
 
 /***************************************
@@ -136,13 +150,14 @@ footer{
     height: 200px;
     background-color: #003E83;
     max-width: 100%;
-    display: block;       
+    display: block;   
+    color:white;
 }
 
 .menu_footer{
     width: 300px;
     padding: 40px 0 0 15px;   
-    float: right;
+    float: right;    
 }
 
 h5{
@@ -167,8 +182,83 @@ h4{
 .about{
     width: 200px;
     padding: 40px 0 0 30px;
+    position: relative;    
+}
+
+.menu_footer li p, .menu_footer li a, .about p{
+    color:white;
+}
+
+
+/***************************************************
+CATALOGO 
+****************************************************/
+
+#menu{
+    clear: both; 
+    width: 15%;
+    top: 100px;
+    float: left;
+    height: 1200px;
     position: relative;
 }
+
+#menu ul{
+    display: inline;
+    
+}
+
+#menu ul a li{
+    padding: 10px 10px;    
+    background-color: #003E83;
+    color: white;    
+}
+
+
+#menu ul li:hover{
+    background-color: yellowgreen;
+    color: black;
+}
+
+
+
+#abc{    
+    float: left;
+    width: 25%;
+    display: inline-block;
+    margin: 20px 0px;
+    margin-left: 20px;
+}
+
+.img-size-catalogo{
+    width: 200px;
+    height: 200px;
+}
+
+.catalogo-oficial{
+    width: 1000px;
+    margin: 0 auto;    
+}
+
+#section{
+    
+    left: 40px;
+    top: 50px;
+   
+    
+}
+
+#titulo{
+    margin-top: 0px;   
+    padding-top: 180px;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+
+
 
 
 
