@@ -53,6 +53,8 @@ HEADING
     float: left;
     position: relative;
     margin: 10px 0 0 25px;
+    top: 5px;
+    left: 20px;
     background: url(../img/logo.png);
     background-repeat: no-repeat;
 }
@@ -209,20 +211,31 @@ CATALOGO
     color:white;
 }
 
+#menu_producto{
+    clear: both; 
+    width: 15%;
+    top: 100px;
+    float: left;        
+    height: 1200px;
+    position: relative;
+    color:white;
 
-#menu ul{
-    display: inline;
+}
+
+
+#menu ul, #menu_producto ul{
+    display: inline-block;  
     
 }
 
-#menu ul a li{
+#menu ul a li, #menu_producto ul a li{
     padding: 10px 10px;    
     background-color: #003E83;
     color: white;    
 }
 
 
-#menu ul li:hover{
+#menu ul li:hover, #menu_producto ul li:hover{
     background-color: yellowgreen;
     color: black;
 }
@@ -234,6 +247,21 @@ CATALOGO
     display: inline-block;
     margin: 20px 0px;
     margin-left: 20px;
+}
+
+#article-producto{
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+}
+
+#img-producto{
+    width: 45%;
+    display: inline-block;;
+    top: 70px;
+    left: 100px;
+    position: relative;
 }
 
 .img-size-catalogo{
@@ -278,11 +306,7 @@ CATALOGO
 /**********************************************
 MENU
 **********************************************/
-#menu{
-    display: inline-block;
-    clear: both;    
-    padding-top: 110px;
-}
+
 
 #menu ul{
     padding: 0;
