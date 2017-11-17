@@ -264,9 +264,9 @@ CATALOGO
     position: relative;
 }
 
-.img-size-catalogo{
-    width: 200px;
-    height: 200px;
+.img-size{
+    width: 150px;
+    height: 150px;
 }
 
 .catalogo-oficial{
@@ -276,7 +276,7 @@ CATALOGO
 
 #section{
     
-    left: 40px;
+    
     top: 50px;
    
     
