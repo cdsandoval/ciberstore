@@ -1,0 +1,10 @@
+Marca  : Microsoft  
+Modelo   :  LIFECAM HD-3000 
+Dispositivo   :  Camara Web  
+Interfaz   :  USB 2.0  
+Sensor  /  TIPO : CMOS 
+Resolucion De Video (Fps)  :  30 FPS 
+Captura De Vídeo  : Hasta  1280x720
+Captura De Fotografía : Hasta  1280x800 
+Micrófono   :  Integrado 
+Para   :  Pc     Notebook    

@@ -1,0 +1,44 @@
+CP-COUGAR-CS-CMD600-1
+
+Desempeño
+Utilizar con	PC
+Diseño
+Color del producto	Negro, Azul
+Puertos e Interfaces
+Conector Express PCI	Si
+Factor de forma	ATX
+Interruptor de encendido/apagado integrado	Si
+Control de energía
+Corriente máxima de salida (+5Vsb)	3 A
+Potencia combinada (3,3 V)	130 W
+Corriente máxima de salida (+5V)	20 A
+Corriente máxima de salida (+3.3V)	24 A
+Corrección del factor de potencia tipo (PFC)	Activo
+Corriente de entrada	10 - 5
+Voltaje de entrada AC	100 - 240 V
+Corriente máxima de salida (-12V)	0,3 A
+Potencia combinada (+12 V)	588 W
+Potencia nominal	600 W
+Potencia combinada (+5 V)	130 W
+Corriente máxima de salida (+12V)	49 A
+Frecuencia de entrada AC	50 - 60 Hz
+Potencia total	600 W
+Eficiencia	88%
+Conectores de poder PCI Express (6 + 2 pin)	2
+Conectores de poder (4 pin) periferales (Molex)	3
+Número de conectores de energía SATA	6
+Alimentador de energía para tarjeta madre	20+4 pin ATX
+CPU conector de alimentación (4 +4 pines)	Si
+Conector de poder a CPU (8-pin)	1
+Aprobaciones reguladoras
+Certificación	CE, FCC
+Certificación 80 PLUS	80 PLUS Bronze
+Certificado Energy Star	Si
+Enfriamiento
+Número de ventiladores	1
+Empaquetado
+Tipo de embalaje	Caja
+Detalles técnicos
+Color de la carcasa	Negro
+Número de conectores SATA	6
+Cantidad de ranuras PCI Express	2

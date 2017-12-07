@@ -1,128 +1,3 @@
-/***************************************
-GENERAL
-****************************************/
-
-body{   
-    font-family: 'Source Sans Pro', sans-serif;   
-    
-    
-}
-
-
-*{
-    -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-
-.wrapper{
-    width: 1000px;
-    margin: 0 auto;
-    padding: 0 0;
-    max-width: 100%;
-}
-
-a {
-    text-decoration: none;
-}
-
-img{
-    max-width: 100%;
-}
-
-p,a{
-    color:black;
-    font-weight: bold;
-}
-
-li{
-    list-style: none;
-}
-
-
-
-/***************************************
-HEADING
-****************************************/
-
-.logo{
-    display: inline-block;
-    width: 140px;
-    height: 100px;
-    float: left;
-    position: relative;
-    margin: 10px 0 0 25px;
-    top: 5px;
-    left: 20px;
-    background: url(../img/logo.png);
-    background-repeat: no-repeat;
-}
-
-header{
-    float: left;
-    margin: 0 0 0 30px 0;
-    padding: 5px 0 0 0;
-    width: 100%;
-    background-color: #003E83;
-}
-
-.top, .footer{
-    width: 1000px;
-    max-width: 100%;
-    margin: 0 auto;
-}
-
-/***************************************
-NAVIGATION
-****************************************/
-
-nav{
-    text-align: center;
-    padding: 10px 0 0 0;
-    margin: 120px 0 0 0;    
-}
-
-nav ul{
-    list-style: none;    
-    margin: 0 0;   
-    background-color: #003066;
-}
-
-nav li{
-    display: inline;    
-    margin: 0px 15px;
-    padding: 2px 0px;
-}
-
-nav li a:hover{
-    background-color: greenyellow;
-    color:black;
-    
-}
-nav a{
-    font-weight: normal;
-    padding: 0px 10px;
-    color:white;    
-}
-
-/***************************************
-REDES SOCIALES
-****************************************/
-
-
-.social{
-    float: right;    
-    margin: 5px 10px;
-    position: relative;
-    
-}
-
-.redes{
-    width: 20px;
-    height: 20px;
-    margin: 0 5px;
-}
 
 /***************************************
 GALERIA
@@ -146,169 +21,26 @@ GALERIA
     margin: 1.5%;    
 }
 
-
-/***************************************
-FOOTER
-****************************************/
-
-footer{
-    clear: both;
-    height: 200px;
-    background-color: #003E83;
-    max-width: 100%;
-    display: block;   
-    color:white;
-    display: block;
-}
-
-.menu_footer{
-    width: 300px;
-    padding: 40px 0 0 15px;   
-    float: right;    
-}
-
-h5{
-    font-weight: normal;
-    margin: 5px 0;
-    display: block;    
-}
-
-h4{
-    margin: -5px 0;
-    font-weight: normal;
-    line-height: 0.8em;        
-}
-
-.lugar{
-    width: 25px;
-    height: 25px;
-    float: left;    
-    margin-right: 10px;    
-}
-
-.about{
-    width: 200px;
-    padding: 40px 0 0 30px;
-    position: relative;    
-}
-
-.menu_footer li p, .menu_footer li a, .about p{
-    color:white;
-}
-
-
-/***************************************************
-CATALOGO 
-****************************************************/
-
-#menu{
-    clear: both; 
-    width: 15%;
-    top: 100px;
-    float: left;
-    height: 1200px;
-    position: relative;
-    color:white;
-}
-
-#menu_producto{
-    clear: both; 
-    width: 15%;
-    top: 100px;
-    float: left;        
-    height: 1200px;
-    position: relative;
-    color:white;
-
-}
-
-
-#menu ul, #menu_producto ul{
-    display: inline-block;  
-    
-}
-
-#menu ul a li, #menu_producto ul a li{
-    padding: 10px 10px;    
-    background-color: #003E83;
-    color: white;    
-}
-
-
-#menu ul li:hover, #menu_producto ul li:hover{
-    background-color: yellowgreen;
-    color: black;
-}
-
-
-
-#abc{        
-    width: 25%;
-    display: inline-block;
-    margin: 20px 0px;
-    margin-left: 20px;
-}
-
-#article-producto{
-    width: 25%;
-    display: inline-block;
-    position: relative;
-    top: 100px;
-}
-
-#img-producto{
-    width: 45%;
-    display: inline-block;;
-    top: 70px;
-    left: 100px;
-    position: relative;
-}
-
 .img-size{
     width: 150px;
     height: 150px;
+    transition: all 1.5s;
+
 }
 
-.catalogo-oficial{
-    width: 1000px;
-    margin: 0 auto;    
+.img-size:hover{
+    transform: scale(1.3);
 }
-
-#section{
     
-    
-    top: 50px;
-   
-    
-}
-
-#titulo{
-    margin-top: 0px;   
-    padding-top: 180px;
-    text-align: center;
-    font-size: 1.5em;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
 
 
 
 
 
 
-.white{
-    color:white;
-    font-weight: normal;
-}
 
 
 
 
-/**********************************************
-MENU
-**********************************************/
 
-
-#menu ul{
-    padding: 0;
-}
 

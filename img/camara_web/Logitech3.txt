@@ -1,0 +1,12 @@
+marca : LOGITECH 
+modelo : C525 
+número de parte : 960-000715 
+dispositivo : webcam 
+interfaz : usb 2.0 
+captura de vídeo : 1280 x 720 pixels 
+captura de fotografía : 8 megapixels 
+para : NOTEBOOK, PC 
+Fotos: Hasta 8 megapíxeles (mejora por software)
+tecnologia cristal liquido
+ tecnologia microfono integrado 
+enfoque automatico 

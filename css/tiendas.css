@@ -1,0 +1,20 @@
+section{
+	display: flex;
+}
+
+article{
+	width: 33%;
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+}
+
+article img{
+	width: 100%;
+}
+
+h2{
+	text-align: center;
+}
+
+

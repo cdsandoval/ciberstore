@@ -1,0 +1,16 @@
+.wrapper{
+	display: flex;
+}
+
+.img{
+	
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	margin-left: 15px;
+	text-align: justify;
+}

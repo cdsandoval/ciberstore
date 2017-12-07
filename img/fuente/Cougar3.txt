@@ -1,0 +1,51 @@
+CP-COUGAR-LX500-1
+
+Desempeño
+Factor de forma	ATX
+Puertos e Interfaces
+Conector Express PCI	Si
+Utilizar con	PC
+Diseño
+Color del producto	Negro
+Interruptor de encendido/apagado integrado	Si
+Control de energía
+Voltaje de entrada AC	100 - 240 V
+Corriente máxima de salida (+12V)	40 A
+Corriente de entrada	8 - 4
+Corriente máxima de salida (+5V)	20 A
+Potencia nominal	500 W
+Potencia total	500 W
+Potencia combinada (3,3 V)	120 W
+Corriente máxima de salida (+5Vsb)	3 A
+Corriente máxima de salida (-12V)	0,3 A
+Corriente máxima de salida (+3.3V)	24 A
+Corrección del factor de potencia tipo (PFC)	Activo
+Potencia combinada (+5 V)	120 W
+Eficiencia	88%
+Potencia combinada (+12 V)	480 W
+Frecuencia de entrada AC	50 - 60 Hz
+Peso y dimensiones
+Ancho	150 mm
+Profundidad	140 mm
+Altura	86 mm
+Conector de poder a CPU (8-pin)	1
+Alimentador de energía para tarjeta madre	20+4 pin ATX
+Número de conectores de energía SATA	5
+CPU conector de alimentación (4 +4 pines)	Si
+Conectores de poder (4 pin) periferales (Molex)	3
+Conectores de poder PCI Express (6 + 2 pin)	2
+Aprobaciones reguladoras
+Certificación	OCP, OPP, OVP, UVP & SCP
+Certificado Energy Star	Si
+Certificación 80 PLUS	80 PLUS Bronze
+Enfriamiento
+Diámetro de ventilador	14 cm
+Número de ventiladores	1
+Empaquetado
+Tipo de embalaje	Caja
+Contenido del embalaje
+Manual de usuario	Si
+Detalles técnicos
+Color de la carcasa	Negro
+Número de conectores SATA	5
+Cantidad de ranuras PCI Express	2

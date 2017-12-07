@@ -1,0 +1,31 @@
+CP-EVGA-100-B1-0450-K1-1
+
+Diseño
+Color del producto	Negro
+Desempeño
+Factor de forma	ATX
+Utilizar con	PC
+Control de energía
+Potencia total	450 W
+Corriente máxima de salida (+3.3V)	20 A
+Corriente máxima de salida (+5V)	20 A
+Corriente máxima de salida (+12V)	35 A
+Corriente de entrada	8
+Corriente máxima de salida (-12V)	0,3 A
+Potencia combinada (3,3 V)	120 W
+Corriente máxima de salida (+5Vsb)	3 A
+Potencia combinada (-12V)	3,6 W
+Frecuencia de entrada AC	50 - 60 Hz
+Potencia nominal	450 W
+Corriente máxima de entrada (@110V)	35 A
+Potencia combinada (+12 V)	420 W
+Potencia combinada (+5 VSB)	15 W
+Voltaje de entrada AC	100 - 240 V
+Potencia combinada (+5 V)	120 W
+Condiciones ambientales
+Intervalo de temperatura operativa	0 - 40 °C
+Peso y dimensiones
+Profundidad	140 mm
+Peso	1,81437 g
+Altura	85 mm
+Ancho	150 mm

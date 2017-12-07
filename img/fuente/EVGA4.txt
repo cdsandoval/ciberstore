@@ -1,0 +1,38 @@
+CP-EVGA-110-B1-0750-VR-1
+
+Diseño
+Color del producto	Negro
+Desempeño
+Factor de forma	ATX
+Utilizar con	PC
+Control de energía
+Corriente de entrada	10-5
+Corriente máxima de salida (+3.3V)	25 A
+Potencia combinada (3,3 V)	150 W
+Potencia total	750 W
+Corriente máxima de salida (12 V3)	20 A
+Corriente máxima de salida (+12 V4)	20 A
+Eficiencia	85%
+Potencia combinada (+5 VSB)	15 W
+Corriente máxima de salida (+5V)	25 A
+Corriente máxima de salida (+5Vsb)	3 A
+Potencia combinada (+5 V)	150 W
+Corriente máxima de salida (-12V)	0,8 A
+Potencia nominal	750 W
+Corriente máxima de salida (+12 V2)	20 A
+Potencia combinada (-12V)	9,6 W
+Corriente máxima de salida (+12 V1)	20 A
+Voltaje de entrada AC	100 - 240 V
+Frecuencia de entrada AC	50 - 60 Hz
+Peso y dimensiones
+Altura	80 mm
+Ancho	150 mm
+Profundidad	165 mm
+Peso	3,63 kg
+Puertos e Interfaces
+Conectores de poder PCI Express (6 + 2 pin)	3
+Alimentador de energía para tarjeta madre	24-pin ATX
+Número de conectores de energía SATA	9
+Conector de poder floppy	1
+Conector de energía EPS (8-pin)	Si
+Conectores de poder (4 pin) periferales (Molex)	5

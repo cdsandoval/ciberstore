@@ -1,0 +1,15 @@
+.bloque-marca{
+	display: flex;
+}
+
+article{
+	width: 22%;
+	margin: 1%;
+}
+
+
+
+#detalles{
+	background-color: #4F628E;
+	border-top: 5px #061539 solid;
+}

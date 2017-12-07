@@ -1,0 +1,44 @@
+iframe{
+	margin: 20px auto;
+}
+
+.izq p{
+	margin: 5px 0;
+}
+
+.mensaje{
+	height: 100px;
+	width: 80%;
+	margin: 10px;
+	background-color: yellow;
+	border-radius: 5px;
+}
+
+.input{
+	width: 80%;
+	margin: 10px;
+	border-radius: 5px;
+	background-color: yellow;
+}
+
+.cont{
+	display: flex;
+}
+
+.izq{
+	width: 30%;
+	margin-top: 25px;
+}
+
+form{
+	margin-top: 30px;
+	width: 65%;
+}
+
+.button{
+	margin: 10px;
+	border-radius: 5px;
+	background-color: #003E83;
+	color: white;
+	padding: 5px;
+}

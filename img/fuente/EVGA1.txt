@@ -1,0 +1,29 @@
+CP-EVGA-100-W1-0430-KR-1
+
+Desempeño
+Utilizar con	PC/server
+Diseño
+Color del producto	Negro
+Puertos e Interfaces
+Conector Express PCI	Si
+Factor de forma	ATX
+Control de energía
+Corriente máxima de salida (+3.3V)	24 A
+Potencia combinada (+12 V)	406 W
+Potencia combinada (+5 VSB)	15 W
+Funciones de protección de poder	Over current, Over power, Sobrevoltaje, Sobrecalentamiento, Cortocircuito, Bajo voltaje
+Corriente máxima de salida (+5Vsb)	3 A
+Corriente máxima de entrada (@110V)	+12V,+3.3V,+5V,+5Vsb,-12V
+Potencia total	430 W
+Eficiencia	80%
+Potencia combinada (3,3 V)	120 W
+Frecuencia de entrada AC	50 - 60 Hz
+Potencia combinada (-12V)	3,6 W
+Corriente máxima de salida (+12V)	34 A
+Voltaje de entrada AC	100 - 240 V
+Corriente máxima de salida (+5V)	15 A
+Potencia combinada (+5 V)	120 W
+Potencia nominal	430 W
+Corriente máxima de salida (-12V)	0,3 A
+Condiciones ambientales
+Intervalo de temperatura operativa	0 - 40 °C

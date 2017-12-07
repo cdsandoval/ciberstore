@@ -1,0 +1,33 @@
+CP-EVGA-100-B1-0700-K1-1
+
+Diseño
+Color del producto	Negro
+Desempeño
+Factor de forma	ATX
+Utilizar con	PC
+Interruptor de encendido/apagado integrado	Si
+Control de energía
+Corriente máxima de salida (+12V)	56 A
+Potencia total	700 W
+Corrección del factor de potencia tipo (PFC)	Activo
+Corriente máxima de salida (+5Vsb)	3 A
+Funciones de protección de poder	Over current, Over power, Sobrevoltaje, Cortocircuito, Bajo voltaje
+Voltaje de entrada AC	100 - 240 V
+Frecuencia de entrada AC	50 - 60 Hz
+Potencia combinada (+5 VSB)	15 W
+Corriente máxima de salida (-12V)	0,3 A
+Potencia combinada (3,3 V)	150 W
+Corriente de entrada	10
+Potencia combinada (+5 V)	150 W
+Potencia combinada (-12V)	3,6 W
+Corriente máxima de salida (+5V)	20 A
+Potencia combinada (+12 V)	672 W
+Potencia nominal	700 W
+Corriente máxima de salida (+3.3V)	24 A
+Condiciones ambientales
+Intervalo de temperatura operativa	0 - 50 °C
+Peso y dimensiones
+Peso	2,27 kg
+Altura	85 mm
+Ancho	150 mm
+Profundidad	140 mm

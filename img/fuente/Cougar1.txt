@@ -1,0 +1,68 @@
+CP-COUGAR-CGRB2-700CM-1
+
+Desempeño
+Factor de forma	ATX
+Puertos e Interfaces
+Conector de poder ATX (20 + 4 pin)	Si
+Interruptor de encendido/apagado integrado	Si
+Utilizar con	PC
+Conector Express PCI	Si
+Versión ATX	2.31
+Diseño
+Color del producto	Negro, Naranja
+Control de energía
+Corriente máxima de salida (+12 V1)	30 A
+Funciones de protección de poder	Sobreintensidad, Sobrevoltaje, Sobrecarga, Cortocircuito, Bajo voltaje
+Frecuencia de entrada AC	50 - 60 Hz
+Potencia combinada (+5 V)	150 W
+Corriente máxima de salida (+12 V2)	30 A
+Potencia combinada (3,3 V)	150 W
+Potencia total	700 W
+Eficiencia	89%
+Potencia nominal	700 W
+Corriente máxima de salida (+5Vsb)	3 A
+Gestión de energía	Si
+Voltaje de entrada AC	110 - 240 V
+Corrección del factor de potencia tipo (PFC)	Activo
+Corriente máxima de entrada (@220V)	10 A
+Corriente máxima de salida (+3.3V)	24 A
+Corriente máxima de salida (+5V)	15 A
+Corriente máxima de salida (-12V)	0,3 A
+Corriente máxima de entrada (@110V)	10 A
+Corriente de entrada	10
+Potencia combinada (+12 V)	648 W
+Peso y dimensiones
+Profundidad	160 mm
+Ancho	150 mm
+Altura	86 mm
+Conector de poder floppy	1
+CPU conector de alimentación (4 +4 pines)	Si
+Tipo de cableado	Modular
+Alimentador de energía para tarjeta madre	20+4 pin ATX
+Conectores de poder (4 pin) periferales (Molex)	6
+Conector de poder a CPU (8-pin)	1
+Conectores de poder PCI Express (6 pin)	2
+Número de conectores de energía SATA	8
+Conectores de poder PCI Express (6 + 2 pin)	2
+Aprobaciones reguladoras
+Certificación	CB,CE, FCC, CCC, TUV, RUus, R63088
+Certificación 80 PLUS	80 PLUS Bronze
+Acorde RoHS	Si
+Certificado Energy Star	Si
+Enfriamiento
+Ubicación de ventilador	Superior
+Diámetro de ventilador	14 cm
+Número de ventiladores	1 fan(s)
+Tipo de enfriamiento	Activo
+Empaquetado
+Tipo de embalaje	Caja
+Tiempo medio entre fallos	300000 h
+Contenido del embalaje
+Manual de usuario	Si
+Power supply unit (PSU) form factor	ATX
+Soporte para proceso paralelo	CrossFire
+Versión EPS	2.92
+Tipo de montaje	Rack mounting
+Tecnología de rodamientos	HDB
+Detalles técnicos
+Gestión de cables	Si
